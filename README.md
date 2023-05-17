@@ -1,6 +1,6 @@
 QA-Automation-Framework-Template
 
-Hello TestPro!
+Hello 
 
-Good evening
+Good 
 
